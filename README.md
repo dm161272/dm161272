@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in full-stack web development and programming in java
+- 👀 I’m interested in full-stack web development and programming
 - 🌱 I’m currently learning PHP full-stack course
 - 📫 How to reach me dm161272@gmail.com
 
