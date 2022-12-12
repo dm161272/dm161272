@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in full-stack web development and programming
-- 🌱 I’m currently learning PHP full-stack course
+- 👀 I’m interested in full-stack/back-end web development and programming
+- 🌱 Graduated frm Barcelona activa IT Academy
 - 📫 How to reach me dm161272@gmail.com
 
 <!---
