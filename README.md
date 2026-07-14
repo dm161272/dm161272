@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tim
-- 👀 I’m interested in full-stack/back-end development
-- 🌱 Graduated frm Barcelona activa IT Academy
+- 👋 Tim
+- 👀 Developer
+- 🌱 Graduated frm Barcelonactiva IT Academy
 - 📫 How to reach me dm161272@gmail.com
 
 <!---
